@@ -20,7 +20,6 @@ package com.example.gitdemo
 //单次添加
 //git add 文件名.class
 //全部添加
-//git add .
 //git add --all
 
 //提交
